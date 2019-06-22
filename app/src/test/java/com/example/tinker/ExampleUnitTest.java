@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.tinker;
 
 import org.junit.Test;
 
